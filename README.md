@@ -1,5 +1,5 @@
 # Food_Claims-SQL
-Project for datacamp certification.
+Project done for datacamp cert.
 
 Originally done in Pgadmin, and Tableau for boxplot
 
